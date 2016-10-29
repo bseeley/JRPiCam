@@ -1,4 +1,7 @@
 # JRPiCam
+'''
+Note this fork is to provide a static url for the Rpi-config project (see my other repos)
+'''
 JRPiCam is a Java API that allows Java applications running on a Raspberry Pi to access the Raspberry Pi Camera. JRPiCam
 achieves this functionality by using the ProcessBuilder class to run the native raspistill program on the RPi. This means that 
 JRPiCam has all the same functionality as raspistill, plus additional Java specific features.
